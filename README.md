@@ -387,7 +387,7 @@ Request Body :
 
 ```json
 {
-  ""date": "2023-06-17",
+  "date": "2023-06-17",
   "location": "Way Kanan",
   "description": "Kecelakkan terjadi di kabupaten Way Kn",
   "fatalities": 3,
@@ -402,7 +402,7 @@ Response Body Success :
 {
   "data" : {
     "id" : 1,
-    ""date": "2023-06-17",
+    "date": "2023-06-17",
   "location": "Way Kanan",
   "description": "Kecelakkan terjadi di kabupaten Way Kn",
   "fatalities": 3,
