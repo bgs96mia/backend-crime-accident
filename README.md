@@ -246,7 +246,7 @@ Response Body Success :
 {
   "data" : {
     "id" : 1,
-     "type_crime": "Pencurian",
+  "type_crime": "Pencurian",
   "name_crime": "Pencurian Mobil",
   "location": "Jakarta Barat",
   "incident_date": "2022-07-12"
