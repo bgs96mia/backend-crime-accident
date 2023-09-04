@@ -5,7 +5,9 @@
   "type": "module",
   "main": "src/app.js",
   "scripts": {
-    "test": "jest -i"
+    "test": "jest -i",
+    "dev": "node app.js",
+    "postinstall": "prisma generate"
   },
   "jest": {
     "transform": {
